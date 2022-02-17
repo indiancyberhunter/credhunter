@@ -16,10 +16,19 @@ class bcolors:
     RESET = '\033[0m' #RESET COLOR
 
 auth = """
-         【﻿ＨＵＮ７３Ｒ．ｐＹ】
-    Sensitive Data Exposure Detector
-    Developer:CYB3RHUN3R
-    VERSION:1.0
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#                         _            _ _ _ _ _ _  _ _ _ _ _ _   _ _ _ _ _       _ _ _ _ _           #
+#  |     | |       |     / \        /            /             | |         |     |         | \     /  #          
+#  |     | |       |    /   \      /            /              | |         |     |         |  \   /   #
+#  |=====| |       |   /     \    /            /    = = = = = =| |_ _ _ _ _|     |_ _ _ _ _|   \ /    #
+#  |     | |       |  /       \  /            /                | |\           _  |              |     #
+#  |     |  \ _ _ /  /         \/            /      _ _ _ _ _ _| | \         |_| |              |     #
+#                                                                                                     #  
+#                                                                                                     #      
+#                               Sensitive Data Exposure Detector                                      #  
+#                                     Developer:CYB3RHUN3R                                            #  
+#                                         VERSION:1.0                                                 #  
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
        """
 print(bcolors.FAIL + auth + bcolors.RESET)
 

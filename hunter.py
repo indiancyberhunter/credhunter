@@ -26,7 +26,7 @@ auth = """
 #                                                                                                     #  
 #                                                                                                     #      
 #                               Sensitive Data Exposure Detector                                      #  
-#                                     Developer:CYB3RHUN3R                                            #  
+#                                    Developer:CYB73R_HUN73R                                          #  
 #                                         VERSION:1.0                                                 #  
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
        """
